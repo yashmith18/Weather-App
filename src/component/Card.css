@@ -1,0 +1,48 @@
+.card{
+    height: 387px;
+    margin-top: 10px;
+    color: #515050;
+    margin-bottom: 15px;
+}
+
+.cardItem{
+    width: 70%;
+    height: 100%;
+    background-color: white;
+    margin-left: 15%;
+    border-radius: 2px;
+    padding-top: 5px;
+    box-shadow: rgba(100, 100, 111, 0.3) 0px 7px 29px 0px;
+}
+
+.cardHeader{
+    text-align: start;  
+    margin-left: 10px;
+    font-size: 20px;
+}
+
+.sides{
+    display: flex;
+    height: 80%;
+    padding: 10px;
+}
+
+.leftDiv{
+    width: 60%;
+    font-size: 100px;
+    font-weight: 700;
+    padding-left: 40px;
+    padding-top: 75px;
+    text-align: start;
+}
+
+.image{
+    margin-left: 10px;
+}
+
+.rightDiv{
+    width: 40%;
+    font-size: 20px;
+    font-weight: 500;
+    text-align: start;
+}
